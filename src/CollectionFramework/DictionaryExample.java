@@ -2,6 +2,7 @@ package CollectionFramework;
 
 import java.util.Dictionary;
 import java.util.Hashtable;
+import java.util.List;
 
 public class DictionaryExample {
 
@@ -17,6 +18,8 @@ public class DictionaryExample {
 		
 		System.out.println("salary of emp 3 " +list.get("Emp003"));
 		
+
+	    System.out.println("salary of emp 2 " +list.get("Emp002"));
 		
 		
 
