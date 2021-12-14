@@ -22,7 +22,7 @@ public class DictionaryExample {
 	    System.out.println("salary of emp 2 " +list.get("Emp002"));
 		
 		
-
+//some code added by user 2
 	}
 
 }
