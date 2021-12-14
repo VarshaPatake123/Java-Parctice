@@ -49,6 +49,13 @@ public class ArrayList1 {
 		{
 			System.out.println(element);
 		}
+		
+		//use iterator to print element of arraylist
+		Iterator itr=list.iterator();
+		while(itr.hasNext())
+		{
+			System.out.println(itr.next());
+		}
 	}
 
 }
